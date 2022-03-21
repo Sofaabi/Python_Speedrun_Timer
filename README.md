@@ -1,5 +1,5 @@
 # CLI-Speedrun-Timer
-A simple CLI speedrun timer that saves personal bests for splits as a .csv file.
+A simple CLI speedrun timer that also allows you to saves runs and your pb in a .csv file, and will show splits as compared to your pb.
 
 Several things to note:
  - The settings assume you're using mupen64plus and playing sm64 16 star, but is entirely agnostic to it just change some variables.
