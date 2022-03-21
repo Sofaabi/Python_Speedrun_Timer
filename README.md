@@ -2,6 +2,7 @@
 A simple CLI speedrun timer that saves personal bests for splits as a .csv file.
 
 Several things to note:
+ - The settings you're using mupen64plus and playing sm64 16 star, but is entirely agnostic to it just change some variables.
  - If you want to change the location or name of the file, change line 18 to whatever you want.
  - If you want to change what hotkey advances to the next split or restarts the timer, change line 19 or 20 respectively.
  - Do not delete individual splits from rows of the .csv file. Deletion of entire rows should be fine.
